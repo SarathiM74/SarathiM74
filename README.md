@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SarathiM74
+- 👋 Hi, I’m Janarthan (@SarathiM74)
 - 👀 I’m interested in open source 
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on open source development 
