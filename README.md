@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Janarthan (@SarathiM74)
 - 👀 I’m interested in open source 
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on open source development 
 - 📫 How to reach me email @ janarthan3012@gmail.com, call @ +916383713335
 
